@@ -1,4 +1,4 @@
-
+//
 let habilidadesArreglo = [
     { nombre: "JavaScript", nivel: "Intermedio", imagen: "auto1" },
     { nombre: "HTML", nivel: "Intermedio", imagen: "auto1", },
